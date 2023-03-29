@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Guillermo
+ * @author Ruben
  */
 public class LineaCelular {
 
