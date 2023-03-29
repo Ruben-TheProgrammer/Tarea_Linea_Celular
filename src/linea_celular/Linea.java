@@ -2,7 +2,7 @@ package linea_celular;
 
 /**
  *
- * @author Guillermo
+ * @author Ruben
  */
 
 public class Linea {
